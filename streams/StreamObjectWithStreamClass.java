@@ -2,7 +2,7 @@ package streams;
 
 import java.util.stream.Stream;
 
-public class WaysOfCreatingStreamObjectInJava {
+public class StreamObjectWithStreamClass {
     public static void main(String[] args) {
         /**
          * from Stream class methods
